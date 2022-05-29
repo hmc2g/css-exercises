@@ -1,0 +1,18 @@
+.class-selector {
+    background-color: #eeafc8;
+    font-family: Verdana, DejaVu, Sans, sans-serif;
+}
+
+.class-selector#font {
+    font-size: 24px;
+}
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #ADFFAD;
+    font-size: 24px;
+    font-weight: bold;
+}
