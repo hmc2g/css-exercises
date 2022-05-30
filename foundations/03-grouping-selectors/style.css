@@ -1,0 +1,17 @@
+/* grouping selectors */
+
+.dark-background,
+.light-background {
+    font-size: 28px;
+    font-family: Helveitca, "Times New Roman", sans-serif;
+}
+
+.dark-background {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.light-background {
+    background-color: #ffff00;
+}
+
